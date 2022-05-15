@@ -1,0 +1,81 @@
+0C9B7A13836EB1D8689D6BFE0539DED7.cache.js
+locale default
+user.agent ie9
+
+1258243A87803FC89FD3FA9B50F91736.cache.js
+locale pt_BR
+user.agent safari
+
+140EB9797FF42B9E7E5B041E29A5440B.cache.js
+locale en
+user.agent gecko1_8
+
+33035806B62853FCC6C809437A2AF6C1.cache.js
+locale pt_BR
+user.agent ie10
+
+3AF0D7F31CCCBDB3FA4C66B4954BAD1D.cache.js
+locale default
+user.agent ie10
+
+4949F5C1361F6C9977D481430B012B18.cache.js
+locale es
+user.agent safari
+
+58ADF995F33BF8D1FFA267C83F02144E.cache.js
+locale pt_BR
+user.agent ie8
+
+648ED7D835D46DFC189CFA1CCD0CBBFA.cache.js
+locale default
+user.agent safari
+
+78E341123B902BA1D4895B4E04C7BB3A.cache.js
+locale en
+user.agent ie8
+
+79985DF4FF93362CD5C21ECC107660A3.cache.js
+locale en
+user.agent ie9
+
+867A293A2A99281CF35E849B04050CDD.cache.js
+locale es
+user.agent ie8
+
+9C1B8658AAA76AEE4C62900BC5FA8FE2.cache.js
+locale es
+user.agent ie10
+
+B3D92FE9AA44FD5F57B5EAF7DE41B13E.cache.js
+locale es
+user.agent ie9
+
+B5FA360798CA5DE8F96D3D3B3E009D0A.cache.js
+locale es
+user.agent gecko1_8
+
+B60EAF40CA812115F8E1205ABA994256.cache.js
+locale en
+user.agent ie10
+
+C217BD2181B06AE9D189C937CCCFFEF7.cache.js
+locale default
+user.agent gecko1_8
+
+C7B460333EC6CD4DBE3332D6FB1F4D42.cache.js
+locale en
+user.agent safari
+
+D7F92E0F220497E8E430EB80F018F803.cache.js
+locale pt_BR
+user.agent gecko1_8
+
+D803103016F1CAE2C66A0E2E974EC169.cache.js
+locale pt_BR
+user.agent ie9
+
+DBB9655723BE993C4F208736B73436E5.cache.js
+locale default
+user.agent ie8
+
+Devmode:devmode.js
